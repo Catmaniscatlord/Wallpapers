@@ -1,0 +1,19 @@
+{
+	"dependencies" : 
+	[
+		"materials/effects/shader.json",
+		"shaders/effects/shader.frag",
+		"shaders/effects/shader.vert"
+	],
+	"editable" : true,
+	"group" : "localeffects",
+	"name" : "shader",
+	"passes" : 
+	[
+		{
+			"material" : "materials/effects/shader.json"
+		}
+	],
+	"replacementkey" : "shader",
+	"version" : 1
+}
