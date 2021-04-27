@@ -1,5 +1,6 @@
 {
 	"contentrating" : "Everyone",
+	"description" : "balls moving in pipes.\r\n\r\nsource can be found at https://github.com/Catmaniscatlord/Wallapers",
 	"file" : "scene.json",
 	"general" : 
 	{
@@ -14,9 +15,12 @@
 			}
 		}
 	},
-	"preview" : "preview.jpg",
+	"preview" : "preview.gif",
 	"tags" : [ "Abstract" ],
 	"title" : "shader pipes",
 	"type" : "scene",
-	"version" : 0
+	"version" : 3,
+	"visibility" : "public",
+	"workshopid" : "2469193645",
+	"workshopurl" : "steam://url/CommunityFilePage/2469193645"
 }
