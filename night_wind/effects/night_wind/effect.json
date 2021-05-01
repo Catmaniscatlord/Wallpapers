@@ -1,0 +1,19 @@
+{
+	"dependencies" : 
+	[
+		"materials/effects/night_wind.json",
+		"shaders/effects/night_wind.frag",
+		"shaders/effects/night_wind.vert"
+	],
+	"editable" : true,
+	"group" : "localeffects",
+	"name" : "night wind",
+	"passes" : 
+	[
+		{
+			"material" : "materials/effects/night_wind.json"
+		}
+	],
+	"replacementkey" : "night_wind",
+	"version" : 1
+}
