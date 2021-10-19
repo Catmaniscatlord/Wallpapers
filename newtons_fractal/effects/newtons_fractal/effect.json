@@ -1,0 +1,19 @@
+{
+	"dependencies" : 
+	[
+		"materials/effects/newtons_fractal.json",
+		"shaders/effects/newtons_fractal.frag",
+		"shaders/effects/newtons_fractal.vert"
+	],
+	"editable" : true,
+	"group" : "localeffects",
+	"name" : "newtons_fractal",
+	"passes" : 
+	[
+		{
+			"material" : "materials/effects/newtons_fractal.json"
+		}
+	],
+	"replacementkey" : "newtons_fractal",
+	"version" : 1
+}

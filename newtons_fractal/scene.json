@@ -52,13 +52,18 @@
 			"effects" : 
 			[
 				{
-					"file" : "effects/night_wind/effect.json",
-					"id" : 18,
+					"file" : "effects/newtons_fractal/effect.json",
+					"id" : 24,
 					"name" : "",
 					"passes" : 
 					[
 						{
-							"id" : 19
+							"constantshadervalues" : 
+							{
+								"Hue Range" : 0.20000000000000001,
+								"Hue base" : 0.35999999999999999
+							},
+							"id" : 25
 						}
 					],
 					"visible" : true
